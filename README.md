@@ -5,6 +5,9 @@
   - headingsTreeview.js
   - traverseTreeview.js
   - poll.js
+  - limitFrequency.js
+    - debounce
+    - throttle
   - worker
     - webWorker.js
 - React Hooks
